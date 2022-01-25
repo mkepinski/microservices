@@ -3,7 +3,6 @@ package microservices.limitsservice.controller;
 import microservices.limitsservice.configuration.Configuration;
 import microservices.limitsservice.model.Limits;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
